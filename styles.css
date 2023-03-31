@@ -1,0 +1,33 @@
+
+body{background-color: #a1dcf6; 
+text-decoration-color: #002B5B;
+text-align: center;
+
+font-style: italic;
+font-size: large;
+
+
+}
+h3{color: #EA5455; 
+    text-decoration: none;}
+h2{color:#EA5455;
+    text-decoration: underline;}
+h1{color: #EA5455;
+    text-decoration: underline;}
+Hr{
+    color: #002B5B;
+    
+    border-top: dotted;
+   border-bottom: none;
+    border-left: none;
+    border-right: none;
+   border-color: #002B5B;
+   height: 30px; width: 50%;
+}
+
+table{
+    border: 5px;
+    border:outset;
+    table-layout: fixed;
+    }
+
